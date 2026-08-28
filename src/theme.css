@@ -1,0 +1,9 @@
+.shell.light { --bg: #eff5fc; --text: #162947; --muted: #5d7494; --line: rgba(29, 70, 119, .15); background: radial-gradient(800px 500px at 75% -20%, rgba(31, 189, 237, .20), transparent 67%), #eff5fc; }
+.shell.light .sidebar, .shell.light header { background: rgba(248, 251, 255, .92); }
+.shell.light .sidebar nav button, .shell.light .about, .shell.light .sidebar button i { color: #58708f; }
+.shell.light .sidebar nav button.active, .shell.light .sidebar nav button:hover, .shell.light .about.active, .shell.light .about:hover { color: #142a4a; background: linear-gradient(90deg, rgba(44, 111, 234, .16), rgba(44, 111, 234, .04)); }
+.shell.light .kpi, .shell.light .panel, .shell.light .table-card, .shell.light .calculator, .shell.light .contact, .shell.light .cards article, .shell.light .reports > aside, .shell.light .backup article, .shell.light .about-card, .shell.light .currencies > section, .shell.light .search-results { background: #fff; color: #172a47; }
+.shell.light .kpi > div, .shell.light .kpi p small, .shell.light .panel-title p, .shell.light .title p, .shell.light .contact > p, .shell.light td, .shell.light .country-grid p, .shell.light .currencies p, .shell.light .settings .panel p { color: #617a99; }
+.shell.light .search input, .shell.light .chip, .shell.light .filters button, .shell.light .quick-grid button, .shell.light .calculator input, .shell.light .calculator select, .shell.light .settings input, .shell.light .settings select, .shell.light .modal input, .shell.light .modal select { background: #edf4fc; color: #182b49; border-color: #c8d9eb; }
+.shell.light .quick-grid button, .shell.light .contact, .shell.light .country-grid article { background: #fff; color: #1c304e; border-color: #d4e1f0; }
+.shell.light .account-line p b, .shell.light td b, .shell.light .metric-row b, .shell.light .summary b, .shell.light .tax-result b, .shell.light .aging b, .shell.light .ranking span b { color: #142946; }
